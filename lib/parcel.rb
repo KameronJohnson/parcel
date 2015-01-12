@@ -1,9 +1,9 @@
 class Parcel
   define_method(:initialize) do |length, width, height, weight|
-    @length = length
-    @width = width
-    @height = height
-    @weight = weight
+    @length = length.to_i()
+    @width = width.to_i()
+    @height = height.to_i()
+    @weight = weight.to_i()
   end
 
   define_method(:volume) do
