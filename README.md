@@ -15,7 +15,7 @@ sinatra-contrib
 $ gem install bundler
 ```
 
-# Run Bundle
+### Run Bundle
 ```erb
 $ bundle
 ```
