@@ -1,0 +1,8 @@
+body {
+  background-image: url(/images/bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #808080;
+  color: #000;
+  padding-left: 10px;
+}
